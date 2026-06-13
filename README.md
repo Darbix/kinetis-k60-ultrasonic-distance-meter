@@ -5,6 +5,15 @@ This project implements a distance measurement device using an SRF05 ultrasonic 
 
 The system periodically measures the distance to an object by transmitting an ultrasonic pulse and calculating the travel time of the reflected echo. The measured distance is displayed in centimeters on a multiplexed 4-digit 7-segment display.
 
+## Documentation
+The full project documentation is available here:
+
+[Documentation (PDF)](Documentation/documentation.pdf)
+
+And the FITkit 3 platform scheme is available here:
+
+[FITkit v3 board wiring diagram (PDF)](Documentation/FITkit_board_v3.0_schematic.pdf)
+
 ## Hardware Components
 - FITkit 3 development board (K60 MCU)
 - SRF05 ultrasonic distance sensor
